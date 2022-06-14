@@ -1,0 +1,19 @@
+.form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    margin-left: 10px;
+    width: 55px;
+    height: 45px;
+    background-color:darkslateblue;
+    color:white;
+}
+.input{
+    height: 40px;
+    width: 280px;
+    font-family: "roboto";
+    font-weight: 700;
+}
